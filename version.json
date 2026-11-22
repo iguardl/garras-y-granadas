@@ -1,5 +1,5 @@
 {
-  "version": "0.5.2",
-  "notes": "El agua atraviesa hojas y arbustos; la gasolina se vuelve a mezclar y prender después de un incendio.",
-  "date": "2026-11-22T04:05:04.124Z"
+  "version": "0.5.3",
+  "notes": "La compu decide rápido (máx. ~12 s por turno), abre camino si no tiene tiro y ya no traba el juego. Mapa Caverna bioluminiscente. Controles por jugador. Pantalla de Rendimiento. Agua y lianas más ligeras.",
+  "date": "2026-11-22T04:09:53.407Z"
 }
