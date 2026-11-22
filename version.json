@@ -1,5 +1,5 @@
 {
-  "version": "0.5.3",
-  "notes": "La compu decide rápido (máx. ~12 s por turno), abre camino si no tiene tiro y ya no traba el juego. Mapa Caverna bioluminiscente. Controles por jugador. Pantalla de Rendimiento. Agua y lianas más ligeras.",
-  "date": "2026-11-22T04:09:53.407Z"
+  "version": "0.5.4",
+  "notes": "Aviso de versión nueva dentro de la app (botón Actualizar). Incluye todo lo de la 0.5.3.",
+  "date": "2026-11-22T04:12:37.346Z"
 }
